@@ -16,9 +16,9 @@ share: true
 # Owner/author information
 owner:
   name: Amy Gillespie  
-  avatar: 
-  favicon: 
-  info: fractal artwork organic abstraction website template
+  avatar: :/profile-pic.jpg"
+  favicon: "/favicon.ico"
+  info: fractal artwork organic abstraction website template modern abstract geometry
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
