@@ -16,7 +16,7 @@ share: true
 # Owner/author information
 owner:
   name: Amy Gillespie  
-  avatar: :/profile-pic.jpg"
+  avatar: "/profile-pic.jpg"
   favicon: "/favicon.ico"
   info: fractal artwork organic abstraction website template modern abstract geometry
 

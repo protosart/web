@@ -5,35 +5,32 @@
     <description>Organic Abstraction</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 May 2017 20:21:41 -0600</pubDate>
-    <lastBuildDate>Tue, 02 May 2017 20:21:41 -0600</lastBuildDate>
+    <pubDate>Tue, 02 May 2017 21:12:11 -0600</pubDate>
+    <lastBuildDate>Tue, 02 May 2017 21:12:11 -0600</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>The Beginning</title>
+        <description>&lt;p&gt;Thank you for your interest in ProtosArt.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;ProtosArt comes from the greek work proto, or first.  Fractal artwork has long been admired, without completely understanding the geometry behind it.  The golden rectangle of Greek design is a prime example - the same rectangle in ever increasing or decreasing sizes formed the basis of all proportions of Greek art.  Sacred Geometry of Buddist Mandalas is another example of these repeating mathmatical patterns and greater or lesser scales.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Fractals are found everywhere, from a honeycomb, to a nautilus shells, trees, mountains, rivers, even the human body.  It is for this reason why, despite the abstract nature, there is an organic feel and appeal to fractal geomety and fractal artwork.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Complex, and yet able to appear minimalist, fractal geometry in it’s greater and larger forms is increasingly difficult to render without the aid of a computer.  My methods include several different programs which approach the mathmatics in unique ways, and I am always looking at other ideas and aesthetics to continue and grow my abilities and my own repertoire.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Typical time to create artwork is upwards of a week per piece.  Generally I am able to find the feel of a piece on the first day, getting the form and adjusting color.  Then a computer is needed to crunch the complex mathmatics of rendering, which days anywhere from one day to a week, depending on how complex and large the initial rendering is.  Extremely large pieces are done in stripes - strips that are then manipulated and patched together like panaramic artwork often is.&lt;/p&gt;
 
+&lt;p&gt;This sort of creativity really appeals to my loves.  Science, all sorts of science, has always been a deep interest of mine.  Art has always been another interest, photography especially.  As I was searching for creative outlets, I stumbled upon this particular form of art and fell instantly in love - able to satisfy my creative desires, as well as my scientific curiousity.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Mar 2017 19:06:27 -0600</pubDate>
-        <link>http://localhost:4000/journal/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/journal/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/journal/The_Beginning/</link>
+        <guid isPermaLink="true">http://localhost:4000/journal/The_Beginning/</guid>
         
         
-        <category>jekyll</category>
+        <category>site</category>
         
-        <category>update</category>
+        <category>updates</category>
         
       </item>
     
