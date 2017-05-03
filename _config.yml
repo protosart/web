@@ -43,7 +43,7 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
+destination:      	 ../stage
 port:             	 4000
 
 
