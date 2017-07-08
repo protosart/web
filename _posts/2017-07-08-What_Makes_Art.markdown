@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Makes Art?"
-date:   2017-07-08 19:06:27 -0600
+date:   2017-07-08 14:24:26 -0600
 categories: site updates
 header-img: "img/writing-bg.jpg"
 ---
