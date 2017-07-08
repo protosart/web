@@ -17,4 +17,4 @@ If you look at something and you feel anything then it has done it's job and the
 
 Humans created art, at first, to tell a story - before there was a written language, or perhaps any formal language at all.  Art, in and of itself, is a journal of the state of mind of the artist - where are they in life?  Are they depressed and their works are dark and screaming for help?  Or are they bright and calm, showing that the artist has peace in their life?  Most likely it is a mixture of everything since the majority of humans ride a veritable roller coaster of emotions each given day.
 
-To create something that tells a story, that creates a feeling that lingers with the view even after they have turned away, clicked a button on their keyboard, or even blinked - to manage to have that sort of impact on the individual that is art.
+To create something that tells a story, that creates a feeling that lingers with the view even after they have turned away, clicked a button on their keyboard, or even blinked - to manage to have that sort of impact on the individual - that is art.
